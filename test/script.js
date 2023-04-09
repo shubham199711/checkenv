@@ -1,1 +1,1 @@
-require('checkenv')(__dirname)
+require('check-env')(__dirname)

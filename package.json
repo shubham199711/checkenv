@@ -1,5 +1,5 @@
 {
-  "name": "checkenv",
+  "name": "check-env",
   "version": "1.0.0",
   "description": "A .env checker from code to get all keys used in project and validate it exists in the .env file.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "keywords": [
     "env",
-    "checkenv"
+    "check-env"
   ],
   "repository": {
     "type": "git",
