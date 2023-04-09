@@ -5,5 +5,5 @@ A .env checker from code to get all keys used in project and validate it exists 
 Uses (In the root file of node.js project):
 
 ```js
-require('../node_modules/checkenv1.js')(__dirname)
+require('checkenv')(__dirname)
 ```
