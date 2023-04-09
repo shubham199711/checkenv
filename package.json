@@ -1,0 +1,15 @@
+{
+  "name": "checkenv",
+  "version": "1.0.0",
+  "description": "A .env checker from code to get all keys used in project and validate it exists in the .env file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "env",
+    "checkenv"
+  ],
+  "author": "Shubham Dohare",
+  "license": "ISC"
+}
