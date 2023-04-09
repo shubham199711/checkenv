@@ -1,5 +1,5 @@
 {
-  "name": "check-env",
+  "name": "@node-check-env",
   "version": "1.0.0",
   "description": "A .env checker from code to get all keys used in project and validate it exists in the .env file.",
   "main": "index.js",

@@ -1,1 +1,1 @@
-require('check-env')(__dirname)
+require('@node-check-env')(__dirname)
